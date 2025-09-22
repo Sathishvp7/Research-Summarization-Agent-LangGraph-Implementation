@@ -36,9 +36,14 @@ The design extends my earlier RAG-based chatbot implementation into a **graph-ba
 
 Below is the **LangGraph workflow** for this agent:  
 
-![LangGraph Workflow](./docs/langgraph_workflow.png)  
+<img width="551" height="316" alt="image" src="https://github.com/user-attachments/assets/ecb03572-0fc7-4cb0-ac05-1aae675e9d30" />
+
+<img width="1266" height="411" alt="image" src="https://github.com/user-attachments/assets/cf0b9581-9ac4-4e76-a371-78df48cf3aa8" />
+
+ 
 *(Generated via LangGraph visualization — shows routing from inquiry categorization to specialized nodes or web search, ending with a unified answer.)*
 
+Linked in Post -  https://www.linkedin.com/pulse/from-rag-agentic-workflows-langgraph-sathish-anantha-fdbec
 ---
 
 ## ⚙️ Tech Stack
@@ -52,3 +57,4 @@ Below is the **LangGraph workflow** for this agent:
 
 ---
   
+
