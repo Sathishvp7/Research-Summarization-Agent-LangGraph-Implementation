@@ -40,9 +40,6 @@ Below is the **LangGraph workflow** for this agent:
 
 <img width="1266" height="411" alt="image" src="https://github.com/user-attachments/assets/cf0b9581-9ac4-4e76-a371-78df48cf3aa8" />
 
- 
-*(Generated via LangGraph visualization — shows routing from inquiry categorization to specialized nodes or web search, ending with a unified answer.)*
-
 Linked in Post -  https://www.linkedin.com/pulse/from-rag-agentic-workflows-langgraph-sathish-anantha-fdbec
 ---
 
@@ -57,4 +54,5 @@ Linked in Post -  https://www.linkedin.com/pulse/from-rag-agentic-workflows-lang
 
 ---
   
+
 
